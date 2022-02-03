@@ -1,2 +1,8 @@
-# calculador-de-imc
-Exercício proposto pelo professor Luiz Otavio aula 66 do curso na Udemy, JavaScript e TypeScript do básico ao avançado 2021.  Neste desafio criamos um timer com setInterval, ele vai ter três botões. O primeiro botão ele vai inicar a contagem to meu timer. O segundo ele vai poder parar o timer e clicando com inicar ele vai dar continuidade no contagem ondem foi parada. O terceiro botão ele vai zerar a contagem do timer.  Um projeto pequeno, porem me diverti muito em fazer, espero que gostem!
+# calculadora-de-imc
+Exercício proposto pelo professor Luiz Otavio aula 44 do curso na Udemy, JavaScript e TypeScript do básico ao avançado 2021.
+
+Neste desafio criamos uma calculadore de IMC: índice de massa corporal, no projeto temos dois inputs, um indicando você colocar o seu peso, e o outro pedindo a sua altura, caso o usuario coloque qualquer coisa não sendo um número o programa vai gerar uma mensagem avisando o usuario que o campo que ele digitou está com peso ou altura invalidos!
+
+Um projeto pequeno, porem deu pra colocar em pratica um poucodos conceitos que o professor passou nas aulas, espero que gostem!
+
+![imc](https://user-images.githubusercontent.com/83987473/152282161-4af7a999-c2ab-413d-a6c3-e21e632c9cb1.gif)
